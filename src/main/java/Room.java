@@ -3,10 +3,10 @@ import javax.jws.WebService;
 @WebService
 public class Room {
 
-    private int roomNumber;
-    private Category category;
-    private boolean available = true;
-    private float price;
+    int roomNumber;
+    Category category;
+    boolean available = true;
+    float price;
 
     public Room(int roomNumber, Category category, float price){
         this.roomNumber = roomNumber;
@@ -26,12 +26,8 @@ public class Room {
         return available;
     }
 
-    public void bookRoom(){
-        this.available = false;
-    }
-
-    public void checkOut(){
-        this.available = true;
+    public void setAvailable(boolean isAvailable){
+        this.available = isAvailable;
     }
 
     public float getPrice(){

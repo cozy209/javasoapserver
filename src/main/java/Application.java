@@ -4,13 +4,13 @@ import java.util.List;
 
 public class Application {
 
-    static private Hotels hotels;
+    static private HotelService hotelService;
 
     public static void main(String[] args) {
 
         createHotels();
 
-        Endpoint endPoint = Endpoint.publish("http://localhost:9999/ws/hotels", hotels);
+        Endpoint endPoint = Endpoint.publish("http://localhost:9999/ws/hotels", hotelService);
 
     }
 
@@ -35,7 +35,7 @@ public class Application {
             hotel.addRooms(createRooms(9,Room.Category.SUITE,200));
         }
 
-        hotels = new Hotels(hotelsList);
+        hotelService = new HotelService(hotelsList);
 
     }
 
