@@ -1,4 +1,5 @@
 import javax.xml.ws.Endpoint;
+import java.net.InetAddress;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -6,11 +7,13 @@ public class Application {
 
     static private HotelService hotelService;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
 
         createHotels();
 
-        Endpoint endPoint = Endpoint.publish("http://localhost:9999/ws/hotels", hotelService);
+        InetAddress inetAddress = InetAddress.getLocalHost();
+
+        Endpoint endPoint = Endpoint.publish("http://"+inetAddress.getHostAddress()+":9999/ws/hotels", hotelService);
 
     }
 

@@ -1,6 +1,4 @@
-import javax.jws.WebMethod;
 import javax.jws.WebService;
-import java.util.ArrayList;
 import java.util.List;
 
 @WebService(targetNamespace = "http://localhost:9999/ws" )
