@@ -9,15 +9,17 @@ public class Application {
 
     public static void main(String[] args) throws Exception{
 
-        createHotels();
+        hotelService = createHotels();
 
         InetAddress inetAddress = InetAddress.getLocalHost();
 
         Endpoint endPoint = Endpoint.publish("http://"+inetAddress.getHostAddress()+":9999/ws/hotels", hotelService);
 
+        System.out.println("Service lancé");
+
     }
 
-    static public void createHotels(){
+    static public HotelService createHotels(){
         List<Hotel> hotelsList = new ArrayList<Hotel>();
 
         Hotel bastienHotel = new Hotel("Bastien Hotel");
@@ -34,18 +36,18 @@ public class Application {
 
         for (Hotel hotel : hotelsList){
             hotel.addRooms(createRooms(1,Room.Category.SINGLE,90));
-            hotel.addRooms(createRooms(5,Room.Category.DOUBLE,160));
-            hotel.addRooms(createRooms(9,Room.Category.SUITE,200));
+            hotel.addRooms(createRooms(6,Room.Category.DOUBLE,160));
+            hotel.addRooms(createRooms(11,Room.Category.SUITE,200));
         }
 
-        hotelService = new HotelService(hotelsList);
+        return new HotelService(hotelsList);
 
     }
 
     private static List<Room> createRooms(int start, Room.Category category,float price) {
         List<Room> toReturn = new ArrayList<Room>();
 
-        for (int i = start; i < 4; i++) {
+        for (int i = start; i < start+5; i++) {
             Room room = new Room(i,category,price);
             toReturn.add(room);
         }

@@ -4,7 +4,7 @@ import java.util.List;
 @WebService(targetNamespace = "http://localhost:9999/ws" )
 public class HotelService {
 
-    List<Hotel> hotels;
+    public static List<Hotel> hotels;
 
     public HotelService(List<Hotel> hotels){
         this.hotels = hotels;

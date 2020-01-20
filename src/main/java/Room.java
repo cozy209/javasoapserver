@@ -1,17 +1,21 @@
 import javax.jws.WebService;
+import javax.xml.bind.annotation.XmlRootElement;
 
-@WebService
+@XmlRootElement
 public class Room {
 
-    int roomNumber;
-    Category category;
-    boolean available = true;
-    float price;
+    public int roomNumber;
+    public Category category;
+    public boolean available = true;
+    public float price;
 
     public Room(int roomNumber, Category category, float price){
         this.roomNumber = roomNumber;
         this.category = category;
         this.price = price;
+    }
+
+    public Room() {
     }
 
     public int getRoomNumber() {
@@ -39,7 +43,7 @@ public class Room {
         DOUBLE("Double"),
         SUITE("Suite");
 
-        private String category;
+        public String category;
 
         Category(String category){
             this.category = category;

@@ -1,9 +1,15 @@
+import javax.xml.bind.annotation.XmlRootElement;
+import java.util.ArrayList;
 import java.util.List;
 
+@XmlRootElement
 public class Hotel {
 
-    private String name;
-    private List<Room> rooms;
+    public String name;
+    public List<Room> rooms = new ArrayList<Room>();
+
+    public Hotel() {
+    }
 
     public Hotel(String name, List<Room> rooms){
         this.name = name;
@@ -27,7 +33,7 @@ public class Hotel {
     }
 
     public void addRooms(List<Room> rooms){
-        rooms.addAll(rooms);
+        this.rooms.addAll(rooms);
     }
 
 
