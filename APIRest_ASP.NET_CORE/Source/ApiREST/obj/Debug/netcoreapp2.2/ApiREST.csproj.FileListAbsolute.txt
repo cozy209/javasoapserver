@@ -1,0 +1,34 @@
+C:\Users\louis\source\repos\ApiREST\ApiREST\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\louis\source\repos\ApiREST\ApiREST\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\louis\source\repos\ApiREST\ApiREST\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\louis\source\repos\ApiREST\ApiREST\bin\Debug\netcoreapp2.2\ApiREST.deps.json
+C:\Users\louis\source\repos\ApiREST\ApiREST\bin\Debug\netcoreapp2.2\ApiREST.runtimeconfig.json
+C:\Users\louis\source\repos\ApiREST\ApiREST\bin\Debug\netcoreapp2.2\ApiREST.runtimeconfig.dev.json
+C:\Users\louis\source\repos\ApiREST\ApiREST\bin\Debug\netcoreapp2.2\ApiREST.dll
+C:\Users\louis\source\repos\ApiREST\ApiREST\bin\Debug\netcoreapp2.2\ApiREST.pdb
+C:\Users\louis\source\repos\ApiREST\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.RazorAssemblyInfo.cache
+C:\Users\louis\source\repos\ApiREST\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.RazorAssemblyInfo.cs
+C:\Users\louis\source\repos\ApiREST\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.AssemblyInfoInputs.cache
+C:\Users\louis\source\repos\ApiREST\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.AssemblyInfo.cs
+C:\Users\louis\source\repos\ApiREST\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.RazorTargetAssemblyInfo.cache
+C:\Users\louis\source\repos\ApiREST\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.dll
+C:\Users\louis\source\repos\ApiREST\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.pdb
+C:\Users\louis\source\repos\ApiREST\ApiREST\bin\Debug\netcoreapp2.2\Connected Services\HotelServiceClientRef\ConnectedService.json
+C:\Users\louis\source\repos\ApiREST\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.csprojAssemblyReference.cache
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\bin\Debug\netcoreapp2.2\Connected Services\HotelServiceClientRef\ConnectedService.json
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\bin\Debug\netcoreapp2.2\ApiREST.deps.json
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\bin\Debug\netcoreapp2.2\ApiREST.runtimeconfig.json
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\bin\Debug\netcoreapp2.2\ApiREST.runtimeconfig.dev.json
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\bin\Debug\netcoreapp2.2\ApiREST.dll
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\bin\Debug\netcoreapp2.2\ApiREST.pdb
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.csprojAssemblyReference.cache
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.RazorAssemblyInfo.cache
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.RazorAssemblyInfo.cs
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.AssemblyInfoInputs.cache
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.AssemblyInfo.cs
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.RazorTargetAssemblyInfo.cache
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.dll
+C:\Users\louis\source\repos\ApiREST - Copie\ApiREST\obj\Debug\netcoreapp2.2\ApiREST.pdb

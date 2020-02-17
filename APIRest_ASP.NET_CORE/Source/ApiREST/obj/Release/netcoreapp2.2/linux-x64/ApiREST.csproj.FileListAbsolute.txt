@@ -1,0 +1,20 @@
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\bin\Release\netcoreapp2.2\linux-x64\appsettings.Development.json
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\bin\Release\netcoreapp2.2\linux-x64\appsettings.json
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\bin\Release\netcoreapp2.2\linux-x64\Connected Services\HotelServiceReference\ConnectedService.json
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\bin\Release\netcoreapp2.2\linux-x64\Properties\launchSettings.json
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\bin\Release\netcoreapp2.2\linux-x64\libhostpolicy.so
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\bin\Release\netcoreapp2.2\linux-x64\libhostfxr.so
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\bin\Release\netcoreapp2.2\linux-x64\ApiREST
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\bin\Release\netcoreapp2.2\linux-x64\ApiREST.deps.json
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\bin\Release\netcoreapp2.2\linux-x64\ApiREST.runtimeconfig.json
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\bin\Release\netcoreapp2.2\linux-x64\ApiREST.runtimeconfig.dev.json
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\bin\Release\netcoreapp2.2\linux-x64\ApiREST.dll
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\bin\Release\netcoreapp2.2\linux-x64\ApiREST.pdb
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\obj\Release\netcoreapp2.2\linux-x64\ApiREST.csprojAssemblyReference.cache
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\obj\Release\netcoreapp2.2\linux-x64\ApiREST.RazorAssemblyInfo.cache
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\obj\Release\netcoreapp2.2\linux-x64\ApiREST.RazorAssemblyInfo.cs
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\obj\Release\netcoreapp2.2\linux-x64\ApiREST.AssemblyInfoInputs.cache
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\obj\Release\netcoreapp2.2\linux-x64\ApiREST.AssemblyInfo.cs
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\obj\Release\netcoreapp2.2\linux-x64\ApiREST.RazorTargetAssemblyInfo.cache
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\obj\Release\netcoreapp2.2\linux-x64\ApiREST.dll
+C:\Users\Louis\Desktop\ApiREST - Copie\ApiREST\obj\Release\netcoreapp2.2\linux-x64\ApiREST.pdb
