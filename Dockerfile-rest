@@ -1,0 +1,4 @@
+FROM mcr.microsoft.com/dotnet/core/sdk:2.2
+EXPOSE 5000
+COPY . /app/myapp/
+ENTRYPOINT ["dotnet", "/app/myapp/ApiREST.dll"]
