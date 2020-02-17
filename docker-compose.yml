@@ -1,0 +1,17 @@
+version: "3"
+services:
+  apiRest:
+    image: dotnet/core/sdk:2.2
+    ports:
+      - "5000:80"
+    volumes:
+      - ./publish/:app/
+    entrypoint:
+      - app/myapp.dll
+  apiSOAP:
+    image: openjdk:8
+    ports:
+      - "9999:9999"
+    volumes:
+      - ./soap/:/usr/src/myapp
+    entrypoint: "javac /usr/src/Application.java && java /usr/src/myapp/Application"
